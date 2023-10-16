@@ -1,0 +1,10 @@
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe.config
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\bin\Debug\Tugas 1.pdb
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\obj\Debug\Tugas 1.csproj.AssemblyReference.cache
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\obj\Debug\Tugas_1.Form1.resources
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\obj\Debug\Tugas_1.Properties.Resources.resources
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\obj\Debug\Tugas 1.csproj.GenerateResource.cache
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\obj\Debug\Tugas 1.csproj.CoreCompileInputs.cache
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\obj\Debug\Tugas 1.exe
+C:\Users\widia\source\repos\Tugas 1\Tugas 1\obj\Debug\Tugas 1.pdb
